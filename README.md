@@ -77,13 +77,13 @@
 
   <div align="left">
     <a href="https://discord.com/users/882173065163849739" target="_blank">
-      <img width="15%" src="https://img.shields.io/badge/Kaizo%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></div>
+      <img width="15%" src="https://img.shields.io/badge/Kaira%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></div>
     </a>
-    <a href="https://www.youtube.com/@kaizo1290?sub_confirmation=1" target="_blank">
-      <img width="15%" src="https://img.shields.io/badge/Kaizo%20-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></div>
+    <a href="https://www.youtube.com/@it.kaira_?sub_confirmation=1" target="_blank">
+      <img width="15%" src="https://img.shields.io/badge/kaira%20-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></div>
     </a>
     <a href="https://github.com/itkaira03" target="_blank">
-      <img width="20%" src="https://img.shields.io/badge/itkaira03%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></div>
+      <img width="15%" src="https://img.shields.io/badge/kaira%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></div>
     </a>
   </div>
 
