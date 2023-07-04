@@ -1,0 +1,7 @@
+.tag {
+    pointer-events: none;
+    border-radius: 2rem;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
