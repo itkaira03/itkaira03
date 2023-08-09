@@ -55,10 +55,6 @@
 
   <div style="display: inline-block;"></div>
 
-  <div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=itkaira03&theme=react-dark&bg_color=20232a&hide_border=false"> 
-  </div>
-
   <div style="display: inline-block;"></div>
 
   <img class="line" src="image/gif/line.gif">
@@ -72,7 +68,7 @@
   <div style="display: inline-block;"></div>
 
   <div align="center">
-    <img width="55%" src="https://lanyard.kyrie25.me/api/882173065163849739?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&borderRadius=15px&animated=true&idleMessage=Damn,I%20missed%20you.%20💔" align="right" align="right">
+    <img width="55%" src="https://lanyard.kyrie25.me/api/882173065163849739?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&borderRadius=15px&animated=true&idleMessage=Hey,I%20luv%20u%20so.%20❤️" align="right" align="right">
   </div>
 
   <div align="left">
