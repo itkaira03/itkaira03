@@ -17,7 +17,7 @@
     <img class="logo_main" src="image/panels/marin_v4.png" width="200" align="right">
   </div>
 
-  I'm it.kaira_, a 20 years old, University student from VietNam.
+  I'm kadc, a 20 years old, University student from VietNam.
   - Gender : <img src="image/svg/icon/boy.svg"> Male
   - Favorites : ⚽ Football, 🏀 Basketball, 🎸 Guitar,...
   - Some games : <img src="image/svg/gaming/valorant.svg"> Valorant, <img src="image/svg/gaming/counter-strike.svg"> CSGO, <img src="image/svg/gaming/fifa.svg"> Fo4, <img src="image/svg/gaming/aov.svg"> AoV,...
@@ -40,17 +40,17 @@
   </div>
 
   <div align="left">
-    <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itkaira03&theme=omni&hide=batchfile&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadc03&theme=omni&hide=batchfile&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
     <div style="display: inline-block;"></div>
-    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=itkaira03&theme=omni&show_icons=true&include_all_commits=true&count_private=true&hide_border=false">
+    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=kadc03&theme=omni&show_icons=true&include_all_commits=true&count_private=true&hide_border=false">
     <div style="display: inline-block;"></div>
-    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=itkaira03&show_icons=true&hide_border=false&theme=omni">
+    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=kadc03&show_icons=true&hide_border=false&theme=omni">
   </div>
 
   <div style="display: inline-block;"></div>
 
   <div align="center">
-    <img src="https://github-trophies.vercel.app/?username=itkaira03&theme=dracula&margin-w=3&hide_border=false&show_icons=true&include_all_commits=true" /> 
+    <img src="https://github-trophies.vercel.app/?username=kadc03&theme=dracula&margin-w=3&hide_border=false&show_icons=true&include_all_commits=true" /> 
   </div>
 
   <div style="display: inline-block;"></div>
@@ -73,13 +73,13 @@
 
   <div align="left">
     <a href="https://discord.com/users/882173065163849739" target="_blank">
-      <img width="15%" src="https://img.shields.io/badge/Kaira%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></div>
+      <img width="15%" src="https://img.shields.io/badge/kadc03%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></div>
     </a>
-    <a href="https://www.youtube.com/@it.kaira_?sub_confirmation=1" target="_blank">
-      <img width="15%" src="https://img.shields.io/badge/kaira%20-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></div>
+    <a href="https://www.youtube.com/@kadc03?sub_confirmation=1" target="_blank">
+      <img width="15%" src="https://img.shields.io/badge/kadc03%20-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></div>
     </a>
-    <a href="https://github.com/itkaira03" target="_blank">
-      <img width="15%" src="https://img.shields.io/badge/kaira%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></div>
+    <a href="https://github.com/kadc03" target="_blank">
+      <img width="15%" src="https://img.shields.io/badge/kadc03%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></div>
     </a>
   </div>
 
@@ -97,7 +97,7 @@
 
   <div align="center">
     <a href="https://count.getloli.com">
-      <img src="https://count.getloli.com/get/@itkaira03?theme=asoul"/>
+      <img src="https://count.getloli.com/get/@kadc03?theme=asoul"/>
     </a>
   </div>
 </body>
